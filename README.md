@@ -55,6 +55,20 @@ print('\====/'.center(40))
 print("Qual nome do usuário?") 
 nome=input("nome:")
 
+nome1 = "maria"
+nome2 = "josé"
+nome3 = "pedro"
+nome4 = "roberta"
+nome5 = "ana"
+
+print("Qual é o seu nome?")
+input()
+print()
+print(nome1)
+print(nome2)
+print(nome3)
+print(nome4)
+print(nome5)
 
 
 
