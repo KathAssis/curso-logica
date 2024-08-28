@@ -33,17 +33,19 @@ print("4 - Consulta")
 #exercício 7
 print ("implemente um programa que desenhe um pinheiro")
 
-print                     ("X")
-print                    ("XXX")
-print                   ("XXXXX")
-print                  ("XXXXXXX")
-print                 ("XXXXXXXXX")
-print                ("XXXXXXXXXXX")
-print               ("XXXXXXXXXXXXX")
-print              ("XXXXXXXXXXXXXXX")
-print                    ("XX")
-print                    ("XX")
-print                   ("XXXX")
+print()
+print('☆'.center(40))
+print('☆XXX☆' .center(40))
+print('☆XXXXX☆' .center(40))
+print('☆XXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXXXXXXXX☆' .center(40))
+for r in range(2):
+    print(('||').center(40))
+print('\====/'.center(40))
+
 
 #exercício 8
 
