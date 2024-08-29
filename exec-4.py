@@ -1,4 +1,4 @@
-4. Quadrado - Escrever um programa que mostre a seguinte figura:
+#Escrever um programa que mostre a seguinte figura:
 
 print("Escreva um programa que mostre a seguinte figura")
 print("XXXXX")
