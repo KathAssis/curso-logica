@@ -1,5 +1,5 @@
  #Elabore um programa que mostre o seguinte menu na tela:
-Cadastro de Clientes
+#Cadastro de Clientes
 
 
 print("Cadastro de Clientes")
